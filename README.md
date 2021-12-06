@@ -23,7 +23,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/khanh0006)
 
 # My website
-[![My website](https://img.shields.io/badge/website-my%20web%20site-green)](https://duykhanhdev.com)
+[![My website](https://img.shields.io/badge/website-duykhanhdev.com-4790ff)](https://duykhanhdev.com)
 
 # Github Status
 <p align="center">
